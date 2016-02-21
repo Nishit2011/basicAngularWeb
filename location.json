@@ -1,0 +1,24 @@
+[
+{
+id:"1",
+city:"Bangalore",
+street:"Ring Road",
+image:"444-444-777"
+
+},
+{
+id:"2",
+city:"New Delhi",
+street:"Paris Road",
+image:"123-123-556"
+
+}
+{
+id:"3",
+city:"Ranchi",
+street:"MG Road",
+pin:"888-888-999"
+
+}
+
+]
